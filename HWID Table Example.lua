@@ -15,7 +15,7 @@
 ]]
 
 return {
-	 123,
-	"Insert your HWID here.",
-	"Insert your HWID here.",
+	"123",
+	"456",
+	"789",
 }
